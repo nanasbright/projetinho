@@ -72,7 +72,7 @@ simButton.addEventListener("click", function () {
     mostrarFraseImagem(); // Mostrar imediatamente a próxima frase
 
     // Redirecionar para o outro index.html
-    window.location.href = "cartinha/src/index.html";
+    window.location.href = "/projetinho/cartinha/src/index.html";
 });
 
 // Pegando o elemento da imagem de raiva
